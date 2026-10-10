@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Tu Nha Minh - 2D Web Game",
+  "description": "Web game 2D Tủ Nhà Mình - Khám phá tủ đồ gia đình, ký ức trang phục truyền thống và chuẩn bị sự kiện",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
